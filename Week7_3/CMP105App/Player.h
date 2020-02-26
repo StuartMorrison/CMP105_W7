@@ -17,4 +17,5 @@ public:
 
 private:
 	Bullet* bullet;
+	
 };
