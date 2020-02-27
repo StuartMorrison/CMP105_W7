@@ -18,6 +18,7 @@ public:
 	};
 
 private:
+	Bullet newBullet;
 	Bullet* bullet;
 	bool hasFired;
 };
